@@ -1,0 +1,29 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 48px;
+    color: #4169e1;
+}
+
+.color {
+    color: purple;
+}
+
+.oblique {
+    font-style: oblique;
+}
+
+.red {
+    color: red;
+}
+
+.cursive {
+    font-family: cursive;
+}
+
+#cursive {
+    font-family: cursive;
+    color: green;
+}

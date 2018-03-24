@@ -1,0 +1,32 @@
+body {
+    background: teal;
+}
+
+h3 {
+    font-family: 'Helvetica', Times, serif;
+    font-size: 18px;
+    color: #F58220;
+}
+
+form {
+    font-family: Helvetica;
+    background: #ffffff;
+    padding: 30px;
+    border: 5px solid #90e0f8;
+}
+
+input {
+    height: 30px;
+    width: 200px;
+    background: #8C8C8C;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #90e0f8; 
+}
+
+button {
+    color: white;
+    font-size: 18px;
+    background: #27476E;
+    padding: 20px;
+}
